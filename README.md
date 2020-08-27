@@ -1,4 +1,5 @@
-Deployed : https://temp-2a536.web.app/
+Deployed using Firebase : 
+   https://temp-2a536.web.app/
 
 
 # Tttgame
